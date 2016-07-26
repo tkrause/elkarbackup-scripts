@@ -1,6 +1,3 @@
-# elkarbackup-scripts
-Backup scripts for Elkarbackup jobs
-
 # MySQL Dump.sh
 
 This script backups all your client's MySQL databases in individual files. After the first copy, only modified databases will be copied.
