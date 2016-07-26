@@ -73,7 +73,7 @@ Pre-script: PostgreSQL Dump.sh
 
 PostgreSQL dumps will be copied to the "Path" field (example: /backups/pgsql) and ElkarBackup will save this directory. If "Path" directory doesn't exist, it will be created on first execution.
 
-### All Distributions
+## All Distributions
 
 This script logs into PostgreSQL two different ways. The first is with a .psql.cnf file in the home directory of user used to log into the host. The second is with postgres without a password.
 
